@@ -1,6 +1,6 @@
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/FJNU%2Cgreen?logoColor=rgb">
+<img alt="Static Badge" src="https://img.shields.io/badge/FJNU_2024-Template-blue">
 <img alt="GitHub License" src="https://img.shields.io/github/license/laujianmion/Template_for_a_Dissertation_of_FJNU">
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
