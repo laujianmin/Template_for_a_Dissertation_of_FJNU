@@ -54,5 +54,8 @@
 
 
 ### 常用样式
-![[attachments/Readme/image-20240125120250672.png]]
+<div align=center>
+<img width=90%  src="https://github.com/laujianmin/Template_for_a_Dissertation_of_FJNU/blob/652ced60816c6633bfe01c8dccae1abe6aec824d/attachments/Readme/image-20240125120250672.png">
+</div>
+
 
