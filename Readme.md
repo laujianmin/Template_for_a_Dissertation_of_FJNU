@@ -1,7 +1,12 @@
 
 
 本模板使用福建师范大学提供官方Word模板制作，暂无 $\LaTeX$ 版本。
-![1](./attachments/Readme/image-20240125114613629.png)
+
+<div align=center>
+<img width=90%  src="https://github.com/laujianmin/Template_for_a_Dissertation_of_FJNU/attachments/Readme/image-20240125114613629.png">
+</div>
+
+![1](https://github.com/laujianmin/Template_for_a_Dissertation_of_FJNU/attachments/Readme/image-20240125114613629.png)
 
 本模板功能：``
 - 基于官方模板，格式符合要求。``
